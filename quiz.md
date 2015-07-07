@@ -6,7 +6,7 @@ Chip
 
 ###What is your favorite color?
 
-Your answer goes here
+Magenta
 
 ###Cats or Dogs?
 
